@@ -2,14 +2,14 @@
 
 ## How do I install these formulae?
 
-`brew install kalemi/custom/<formula>`
+`brew install kalemi19/custom/<formula>`
 
-Or `brew tap kalemi/custom` and then `brew install <formula>`.
+Or `brew tap kalemi19/custom` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "kalemi/custom"
+tap "kalemi19/custom"
 brew "<formula>"
 ```
 
